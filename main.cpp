@@ -25,3 +25,6 @@ int main()
 			x3 = (-b) / (2 * a);
 			printf("%lf\n", x3);
 		}
+		else printf("Net sasheniy");
+	}
+}
