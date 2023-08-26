@@ -7,3 +7,6 @@ int main()
 	printf("Write a ");
 	scanf_s("%lf", &a);
 	printf("Write b ");
+	scanf_s("%lf", &b);
+	printf("Write c ");
+	scanf_s("%lf", &c);
