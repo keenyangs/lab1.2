@@ -18,3 +18,10 @@ int main()
 		printf("%lf\n", x1);
 		printf("%lf\n", x2);
 	}
+	else
+	{
+		if (D == 0)
+		{
+			x3 = (-b) / (2 * a);
+			printf("%lf\n", x3);
+		}
